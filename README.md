@@ -1,4 +1,4 @@
-# otlp-react 
+# opentelemetry-react 
 
 This repo tries:
 - [OpenTelemetry for Javascript/Browser](https://opentelemetry.io/docs/instrumentation/js/getting-started/browser/)
@@ -33,3 +33,8 @@ View apps in browser:
 - [Collector demo](https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/main/examples/demo)
 - [CORS for receiver](https://github.com/open-telemetry/opentelemetry-collector/blob/main/receiver/otlpreceiver/README.md)
 - [Instrumentation modules](https://github.com/open-telemetry/opentelemetry-js-contrib)
+
+## Screenshots
+![Screenshot 2022-09-14 at 4 32 12 PM](https://user-images.githubusercontent.com/243186/190108549-a1f19a73-fa8f-4b62-8faa-b46006b0398b.png)
+![Screenshot 2022-09-14 at 4 32 34 PM](https://user-images.githubusercontent.com/243186/190108565-713b0ae2-e15e-4eca-a4cf-48b1a4657184.png)
+![Screenshot 2022-09-14 at 4 34 52 PM](https://user-images.githubusercontent.com/243186/190108570-f6dc68ca-ee20-489c-b202-f925268985ef.png)
