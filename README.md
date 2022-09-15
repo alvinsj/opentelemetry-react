@@ -7,7 +7,7 @@ This repo tries:
 
 ## Setting up
 
-With `docker-compose.yml`, boot up
+In [opentelemetry-collector](https://github.com/alvinsj/opentelemetry-react/tree/main/opentelemetry-collector) with `docker-compose.yml`, boot up
 1. OpenTelemetry Collector
 2. Jaeger, Zipkin 
 3. Prometheus
@@ -23,7 +23,7 @@ $ yarn && yarn dev
 ```
 
 View apps in browser:
-- React app - http://localhost:5173/
+- React app - http://localhost:5173
 - Jaeger UI - http://localhost:16686
 - Zipkin - http://localhost:9411
 - Prometheus - http://localhost:9090
